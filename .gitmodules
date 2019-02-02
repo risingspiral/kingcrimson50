@@ -1,0 +1,3 @@
+[submodule "themes/tracks"]
+	path = themes/tracks
+	url = https://github.com/ageekymonk/hugo-tracks-theme.git
