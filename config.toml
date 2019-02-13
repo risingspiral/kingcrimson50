@@ -1,5 +1,11 @@
 baseURL = "https://kingcrimson50.com/"
 languageCode = "en-us"
-title = "King Crimson at 50"
+title = "King Crimson @ 50"
 
-theme = "tracks"
+theme = "hugo-theme-massively"
+
+# Below parameters can be set to override default post settings
+ [params.posts]
+     foldername = "posts"
+     pagesize = "6"
+     featuredpost = "true"
